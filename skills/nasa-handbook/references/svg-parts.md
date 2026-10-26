@@ -279,7 +279,7 @@ Lanes: label column at x 2–30, bars 2.6 mm tall, lanes 4.4 mm apart. A break
 in a bar is a new file or segment; `.gap` is a pending or absent span:
 
 ```html
-<text class="lbl-s" x="2" y="21">STATION 2 · CAMERA</text>
+<text class="lbl-s" x="2" y="21">STATION 2 - CAMERA</text>
 <rect class="vid" x="40"   y="19.1" width="29.4" height="2.6"/>
 <rect class="vid" x="70.2" y="19.1" width="37"   height="2.6"/>
 <rect class="aud" x="40"   y="23.5" width="33.6" height="2.6"/>

@@ -44,7 +44,7 @@ see Variants):
 |---|---|---|
 | Top margin | | 9 mm |
 | Running head | doc number (bold), handbook title (bold), part name ("SYSTEMS DATA"), 1.5 pt rule | 15 mm |
-| Opener | "SECTION 2 · SUBSECTION 2.1" and the subsystem name, centered caps | 14 mm |
+| Opener | "SECTION 2 - SUBSECTION 2.1" and the subsystem name, centered caps | 14 mm |
 | 2.x.1 INTRODUCTION. | 3 lines | 18 mm |
 | Figure 2.x-1 (hero) | the main drawing + caption | 68–74 mm |
 | 2.x.2 FUNCTIONAL DESCRIPTION. | 4 lines | 22 mm |
@@ -307,7 +307,7 @@ pole pattern are fine: they are black lines on white.
   INCHES"), all lettering in Leroy.
 - **NASA Technical Note cover** (1960s): large "NASA TECHNICAL NOTE", report
   number (`NASA TN D-1234`), title in caps, authors, a center line
-  ("NATIONAL AERONAUTICS AND SPACE ADMINISTRATION · WASHINGTON, D. C. · JUNE
+  ("NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, WASHINGTON, D. C., JUNE
   1965"), set in a Times-like serif.
 - **1975 Graphics Standards era**: Helvetica Light text with Helvetica Medium
   headings, flush left and ragged right, outline boxes around technical
